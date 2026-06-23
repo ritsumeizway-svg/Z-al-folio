@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://zone.github.io/sitemap.xml
