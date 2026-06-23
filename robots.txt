@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zone.github.io/sitemap.xml
+Sitemap: https://ritsumeizway-svg.github.io/sitemap.xml
